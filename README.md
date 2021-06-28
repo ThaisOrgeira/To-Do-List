@@ -3,5 +3,5 @@
 <strong> Nesse repositorio eu recriei ums lista de tarefas com Javascript.</strong>
 
 
- <img alt="ToDoList" src="https://gifs.com/gif/to-do-list-Dq9lVy">
+ <img alt="ToDoList" src="https://j.gifs.com/Dq9lVy.gif">
 
